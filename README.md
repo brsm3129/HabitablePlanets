@@ -1,5 +1,6 @@
 # HabitablePlanets
-Numerical Computation Final Project giving planets a habitability rating
+Numerical Computation Final Project where we attempt to give planets a habitability rating.
+
 by Bryson Smith and Kailen Simmons
 
 
